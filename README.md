@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luigizhou&theme=dark&show_icons=true)
+![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luigizhou&theme=default&show_icons=true)
 
 
 <!--
